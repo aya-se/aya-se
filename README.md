@@ -1,16 +1,17 @@
-### Hi there 👋
+# aya-se
+aya-seのプロフィールです。
 
-<!--
-**aya-se/aya-se** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> 
+  <a href="https://github.com/aya-se/aya-se/">
+    <img src="https://komarev.com/ghpvc/?username=aya-se" alt="aya-se" />
+  </a>
+  <a href="http://twitter.com/Hakuba_snow">
+    <img height="20" src="https://img.shields.io/twitter/follow/Hakuba_snow?label=Twitter&logo=twitter&style=flat" />
+  </a>
+  <a href="https://github.com/aya-se">
+    <img height="20" src="https://img.shields.io/github/followers/aya-se?label=follow&logo=github&style=flat" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![aya-se's GitHub stats](https://github-readme-stats.vercel.app/api?username=aya-se)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=aya-se)](https://github.com/ryo-ma/github-profile-trophy)
