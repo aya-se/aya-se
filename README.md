@@ -13,5 +13,11 @@ aya-seのプロフィールです。
   </a>
 </p>
 
-[![aya-se's GitHub stats](https://github-readme-stats.vercel.app/api?username=aya-se)](https://github.com/anuraghazra/github-readme-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=aya-se)](https://github.com/ryo-ma/github-profile-trophy)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aya-se&theme=github)
+[![trophy](https://github-profile-trophy.vercel.app/?username=aya-se&margin-w=5&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)
+<br/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aya-se&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aya-se&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aya-se&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aya-se&theme=github&utcOffset=8)
